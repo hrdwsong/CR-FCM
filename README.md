@@ -25,7 +25,7 @@ Please see ./run.bat.
 
 - Put them in the corresponding folders.
 
-- Run ./run.bat in bash shell.
+- Run ./run.bat in conda prompt.
 
 ## Acknowledgement
 This repository is built using components of the [FewTURE](https://github.com/mrkshllr/FewTURE) repository for pretraining and the [CPEA](https://github.com/FushengHao/CPEA) repository for training and inference.
