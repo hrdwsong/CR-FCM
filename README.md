@@ -1,5 +1,5 @@
-# A Collapse-Resistant Method for Few-shot Learning
-Official PyTorch implementation of the paper **A Collapse-Resistant Method for Few-shot Learning**.
+# Collapse-Resistant Learning Approach Incorporating Multi-Level Features for Few-Shot Classification
+Official PyTorch implementation of the paper **Collapse-Resistant Learning Approach Incorporating Multi-Level Features for Few-Shot Classification**.
 
 ## Requirements
 Python 3.8, Pytorch 1.7.0, timm 0.3.2
